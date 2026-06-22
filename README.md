@@ -27,8 +27,8 @@ A 2D endless runner game built in Unity using C#. The player must avoid obstacle
 
 ## 🎮 Gameplay Preview
 
-### HomeScreen
-![HomeScreen](screenshots/HomePage.png)
+### HomePage
+![HomePage](screenshots/HomePage.png)
 
 ### Gameplay
 ![Gameplay](Screenshots/Gameplay.png)
